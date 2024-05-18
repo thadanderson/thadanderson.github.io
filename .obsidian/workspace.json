@@ -140,9 +140,7 @@
   },
   "active": "bebb9b558d41862b",
   "lastOpenFiles": [
-    "about.md",
-    "README.md",
-    "LICENSE.md",
+    "index.md",
     "_includes/sidebar.html",
     "_includes/head.html",
     "_layouts/default.html",
@@ -153,10 +151,13 @@
     "_posts/2012-02-06-whats-jekyll.md",
     "public/apple-touch-icon-144-precomposed.png",
     "public/css/syntax.css",
-    "public/css/hyde.css",
     "public/css/poole.css",
+    "public/css/hyde.css",
     "public/css",
     "public/favicon.ico",
+    "about.md",
+    "LICENSE.md",
+    "README.md",
     "public/apple-touch-icon-precomposed.png",
     "_posts/2020-04-02-example-content.md",
     "_posts/2020-04-03-introducing-lanyon.md",
@@ -183,7 +184,6 @@
     "_portfolio/example.md",
     "_portfolio/project2.md",
     "legal.md",
-    "index.md",
     "_posts/2020-07-07-overview-post.md"
   ]
 }
