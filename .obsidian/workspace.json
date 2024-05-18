@@ -11,8 +11,12 @@
             "id": "bebb9b558d41862b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "projects.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "projects.md"
+              }
             }
           }
         ]
@@ -141,21 +149,25 @@
   "active": "bebb9b558d41862b",
   "lastOpenFiles": [
     "index.md",
-    "_includes/sidebar.html",
-    "_includes/head.html",
-    "_layouts/default.html",
-    "_layouts/page.html",
-    "_layouts/post.html",
+    "compositions.md",
+    "about.md",
+    "_posts/2024-05-17-welcome-to-jekyll.md",
+    "_site/assets/minima-social-icons.svg",
+    "_site/assets/main.css.map",
+    "_site/assets/main.css",
+    "_site/assets",
+    "_site/about/index.html",
+    "_site/about",
+    "_site/404.html",
+    "_site/compositions/index.html",
+    "_site/compositions",
+    "_site/index.html",
+    "_site/jekyll/update/2024/05/17/welcome-to-jekyll.html",
+    "projects.md",
     "_posts/2013-12-28-introducing-hyde.md",
     "_posts/2012-02-07-example-content.md",
     "_posts/2012-02-06-whats-jekyll.md",
     "public/apple-touch-icon-144-precomposed.png",
-    "public/css/syntax.css",
-    "public/css/poole.css",
-    "public/css/hyde.css",
-    "public/css",
-    "public/favicon.ico",
-    "about.md",
     "LICENSE.md",
     "README.md",
     "public/apple-touch-icon-precomposed.png",
@@ -179,11 +191,8 @@
     "assets/img/timeline/2.jpg",
     "assets/img/team/500x500.jpg",
     "assets/img/team/2.jpg",
-    "assets/img/portfolio/06-thumbnail.jpg",
     "_portfolio/project1.md",
     "_portfolio/example.md",
-    "_portfolio/project2.md",
-    "legal.md",
-    "_posts/2020-07-07-overview-post.md"
+    "_portfolio/project2.md"
   ]
 }
