@@ -22,10 +22,9 @@ title: Thad Anderson
 email: info@thadanderson.com
 description: >- # this means to ignore newlines until "baseurl:"
   Percussionist, composer, & audio engineer. Associate Professor of Music at UCF. Executive Committee member at PAS.
-baseurl: "" # the subpath of your site, e.g. /about
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://thadanderson.github.io/about" # the subpath of your site, e.g. /about
+url: "https://thadanderson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thadanderson
-github_username:  thadanderson
 
 # Build settings
 theme: minima
