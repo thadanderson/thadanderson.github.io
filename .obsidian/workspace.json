@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "compositions.md",
+                "file": "_posts/2024-05-17-welcome-to-jekyll.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "compositions.md",
+                "file": "_posts/2024-05-17-welcome-to-jekyll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "compositions.md",
+                "file": "_posts/2024-05-17-welcome-to-jekyll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "compositions.md"
+                "file": "_posts/2024-05-17-welcome-to-jekyll.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "bebb9b558d41862b",
   "lastOpenFiles": [
+    "compositions.md",
+    "_posts/2024-05-17-welcome-to-jekyll.md",
     "projects.md",
     "about.md",
-    "compositions.md",
     "index.md"
   ]
 }
